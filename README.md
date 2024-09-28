@@ -17,18 +17,18 @@ ___
 * bilibili： https://www.bilibili.com/video/BV1R5xqeEE3f/
 ### 3、系统介绍
 #### （1）UI
-| 游戏功能介绍   | GIF |
+| UI   | GIF |
 | :-------: | :---: | 
 |   UI  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/ui.gif?raw=true) |
 #### （2）辅助功能
-| 游戏功能介绍   | GIF |
+| 辅助功能   | GIF |
 | :-------: | :---: | 
 |   仪器介绍  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/yiqizhanshi.gif?raw=true) |
 |   查询成绩  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/chengji.gif?raw=true) |
 |   练习模式  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/lianxi.gif?raw=true) |
 |   指导模式  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/zhidao.gif?raw=true) |
 #### （3）实验片段
-| 游戏功能介绍   | GIF |
+| 实验片段   | GIF |
 | :-------: | :---: | 
 |   拿起肱骨  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/nagonggu.gif?raw=true) |
 |   切断肱骨  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/qiegutou.gif?raw=true) |
