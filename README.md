@@ -17,7 +17,7 @@ ___
 * bilibili： https://www.bilibili.com/video/BV1R5xqeEE3f/
 ### 3、系统介绍
 #### （1）UI
-| UI   | GIF |
+| 主要界面  | GIF |
 | :-------: | :---: | 
 |   UI  | ![image](https://github.com/ColdPlayll/Gif/blob/main/Cell/ui.gif?raw=true) |
 #### （2）辅助功能
