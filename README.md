@@ -10,8 +10,8 @@ ___
 当前分支为: `main`
  ## 二、介绍
 ### 1、功能
-织梦农场是一款模仿星露谷物语的像素风格游戏
-<br>游戏实现了`背包`、`储物箱`、`商店`、`工具（砍树、挖矿等）`、`种植`、`NPC的日程寻路对话`、`家具建造`、`昼夜交替`、`存档系统`等功能
+细胞生物虚拟仿真实验总共包含八个实验。
+<br>
 ### 2、展示视频
 * 百度网盘：https://pan.baidu.com/s/1gXGvMyT0wjj1lhMTnkbaNg?pwd=y34k <br>
 * bilibili： https://www.bilibili.com/video/BV1R5xqeEE3f/
