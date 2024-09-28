@@ -9,6 +9,6 @@ ___
 
 **当前分支为** `main`
 ## 二、展示视频
-* 百度网盘：<br>
-* bilibili： 
+* 百度网盘：https://pan.baidu.com/s/1gXGvMyT0wjj1lhMTnkbaNg?pwd=y34k <br>
+* bilibili： https://www.bilibili.com/video/BV1R5xqeEE3f/
 
