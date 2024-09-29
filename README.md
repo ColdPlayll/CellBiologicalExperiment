@@ -12,9 +12,9 @@ ___
 ### 1、功能
 细胞生物虚拟仿真实验总共包含八个实验。
 <br>
-### 2、展示视频
-* 百度网盘：https://pan.baidu.com/s/1gXGvMyT0wjj1lhMTnkbaNg?pwd=y34k <br>
-* bilibili： https://www.bilibili.com/video/BV1R5xqeEE3f/
+### 2、展示
+* 可运行文件（百度网盘）：https://pan.baidu.com/s/1cuvVxQDdoQ4pJ54Fy5H9Ug?pwd=h279 <br>
+* 展示视频（bilibili）： https://www.bilibili.com/video/BV1R5xqeEE3f/
 ### 3、系统介绍
 #### （1）UI
 | 主要界面  | GIF |
